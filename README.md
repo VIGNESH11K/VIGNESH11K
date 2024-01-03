@@ -6,9 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vignesh11k" alt="vignesh11k" /></a> </p>
 
 
-
-- 🌱 I’m currently learning **MERN STACK**
-
 - 👨‍💻 All of my projects are available at [https://vigneshrk.netlify.app/](https://vigneshrk.netlify.app/)
 
 - 💬 Ask me about **whatever is your doubt**
