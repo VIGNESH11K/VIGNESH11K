@@ -13,10 +13,10 @@
   
 </p>
 
-//badges
+
 <p align="center">
   <a href="https://leetcode.com/VIGNESH11K/" target="_blank">
-    <img align="center" src="https://leetcode-badge-showcase.vercel.app/api?username=VIGNESH11K&theme=dark" alt="LeetCode Badge" height="200" width="200"/>
+    <img align="center" src="https://leetcode-badge-showcase.vercel.app/api?username=VIGNESH11K&theme=dark" alt="LeetCode Badge" height="300" width="300"/>
   </a>
 </p>
 
