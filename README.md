@@ -10,6 +10,9 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/VIGNESH11K?ext=heatmap" alt="Leetcode Stats" />
+  <img src="https://imgur.com/a/ysyxI9d" width="50" height="50"/>
+
+  
 </p>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
