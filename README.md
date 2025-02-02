@@ -13,12 +13,12 @@
   
 </p>
 
-
 <p align="center">
   <a href="https://leetcode.com/VIGNESH11K/" target="_blank">
-    <img align="center" src="https://leetcode-badge-showcase.vercel.app/api?username=VIGNESH11K&theme=dark" alt="LeetCode Badge" height="300" width="300"/>
+    <img align="center" src="https://leetcode-badge-showcase.vercel.app/api?username=VIGNESH11K&theme=dark" alt="LeetCode Badge" height="400" width="300"/>
   </a>
 </p>
+
 
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
